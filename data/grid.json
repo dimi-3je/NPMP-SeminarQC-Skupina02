@@ -1,0 +1,10 @@
+{
+  "rows": 1080,
+  "shots": 4096,
+  "marked_item": 0,
+  "backend": "Fake20QV1 (test backend bundled with Qiskit)",
+  "calibration_date": "2020-08-07 15:58:39-04:00",
+  "mean_cx_error": 0.016435191692365434,
+  "qiskit": "1.4.3",
+  "qiskit_aer": "0.15.1"
+}

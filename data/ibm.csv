@@ -1,0 +1,9 @@
+n,k,backend,job_id,level,shots,depth_after,two_qubit_after,mean_2q_error,p_theory,p_pred,p_hardware
+2,1,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,8,2,0.0069,1.000,0.990,0.985
+2,2,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,9,2,0.0069,0.250,0.250,0.250
+3,1,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,67,17,0.0069,0.781,0.709,0.692
+3,2,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,139,39,0.0069,0.945,0.752,0.797
+3,3,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,205,57,0.0069,0.330,0.264,0.270
+4,1,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,138,37,0.0069,0.473,0.380,0.341
+4,2,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,269,73,0.0069,0.908,0.574,0.431
+4,3,ibm_marrakesh,dc1ls8ls2omc738apkg0,3,4096,409,113,0.0069,0.961,0.475,0.319
